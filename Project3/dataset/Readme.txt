@@ -1,0 +1,1 @@
+As the dataset is huge , hence the link to online dataset is: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
